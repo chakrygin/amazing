@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    // https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+    "dbaeumer.vscode-eslint",
+
+    // https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
+    "orta.vscode-jest",
+  ]
+}

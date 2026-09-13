@@ -9,9 +9,7 @@
         "kind": "build",
         "isDefault": true
       },
-      "dependsOn": [
-        "Clean"
-      ]
+      "dependsOn": [ "Clean" ]
     },
     {
       "type": "npm",

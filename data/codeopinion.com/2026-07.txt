@@ -1,2 +1,0 @@
-https://codeopinion.com/5-software-architecture-mistakes/
-https://codeopinion.com/multi-tenancy/

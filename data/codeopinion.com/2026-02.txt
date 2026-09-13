@@ -1,2 +1,0 @@
-https://codeopinion.com/read-replicas-are-not-cqrs-stop-confusing-this/
-https://codeopinion.com/your-idempotent-code-is-lying-to-you/

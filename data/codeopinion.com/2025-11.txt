@@ -1,2 +1,0 @@
-https://codeopinion.com/clean-up-bloated-cqrs-handlers/
-https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/

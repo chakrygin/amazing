@@ -13,20 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # https://github.com/marketplace/actions/checkout
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - id: scrape
         name: Scrape
         uses: ./
         with:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_PUBLIC_CHAT_ID: ${{ secrets.TELEGRAM_PUBLIC_CHAT_ID }}
-          TELEGRAM_PRIVATE_CHAT_ID: ${{ secrets.TELEGRAM_PRIVATE_CHAT_ID }}
+          AMAZING_TOKEN: ${{ secrets.AMAZING_TOKEN }}
+          AMAZING_PRIVATE_CHAT_ID: ${{ vars.AMAZING_PRIVATE_CHAT_ID }}
+          AMAZING_DOTNET_CHAT_ID: ${{ vars.AMAZING_DOTNET_CHAT_ID }}
 
       # https://github.com/marketplace/actions/add-commit
       - name: Commit
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         if: ${{ always() && github.ref == 'refs/heads/main' }}
         with:
           add: data

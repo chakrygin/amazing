@@ -1,65 +1,38 @@
 {
   "AndrewLock": {
-    "timestamp": "2026-09-01T11:59:28.186Z"
+    "timestamp": "2026-09-20T14:06:48.066Z"
   },
   "BreslavLozhechkin": {
-    "timestamp": "2026-09-11T16:44:38.661Z"
-  },
-  "CodeMaze": {
-    "timestamp": "2025-02-26T08:49:41.641Z"
+    "timestamp": "2026-09-20T14:06:53.290Z"
   },
   "CodeOpinion": {
-    "timestamp": "2026-09-03T22:47:43.982Z"
+    "timestamp": "2026-09-20T14:06:58.407Z"
   },
   "DevBlogs / .NET Blog": {
-    "timestamp": "2026-09-10T19:15:55.979Z"
-  },
-  "DevBlogs / OData": {
-    "timestamp": "2024-08-30T10:46:16.841Z"
-  },
-  "DevBlogs / The NuGet Blog": {
-    "timestamp": "2024-11-04T18:47:45.176Z"
-  },
-  "DevBlogs / TypeScript": {
-    "timestamp": "2026-07-08T18:04:14.118Z"
+    "timestamp": "2026-09-20T14:07:03.881Z"
   },
   "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2026-09-08T16:49:55.056Z"
-  },
-  "DevBlogs / Windows Command Line": {
-    "timestamp": "2026-08-25T13:31:50.070Z"
+    "timestamp": "2026-09-20T14:07:08.828Z"
   },
   "Habr / .NET": {
-    "timestamp": "2026-09-10T11:47:17.937Z"
+    "timestamp": "2026-09-20T14:07:29.387Z"
   },
   "Habr / C#": {
-    "timestamp": "2026-09-13T12:15:49.239Z"
+    "timestamp": "2026-09-20T14:07:34.529Z"
   },
   "Habr / F#": {
-    "timestamp": "2026-07-14T03:46:16.589Z"
+    "timestamp": "2026-09-20T14:07:44.814Z"
   },
-  "JetBrains / How-To's": {
-    "timestamp": "2025-11-11T16:53:16.406Z"
-  },
-  "JetBrains / Releases": {
-    "timestamp": "2026-08-19T17:00:06.428Z"
-  },
-  "JetBrains / dotInsights": {
-    "timestamp": "2026-07-10T11:30:59.447Z"
-  },
-  "KhalidAbuhakmeh": {
-    "timestamp": "2025-04-22T16:51:58.917Z"
+  "JetBrains / .NET Tools": {
+    "timestamp": "2026-09-20T14:07:50.126Z"
   },
   "Meziantou": {
-    "timestamp": "2026-09-10T16:40:16.695Z"
+    "timestamp": "2026-09-20T14:07:55.344Z"
   },
   "RadioDotNet": {
-    "timestamp": "2026-08-31T00:48:41.534Z"
+    "timestamp": "2026-09-20T14:08:00.194Z"
   },
   "StevenGiesel": {
-    "timestamp": "2026-09-13T12:15:54.453Z"
-  },
-  "TheMorningBrew": {
-    "timestamp": "2024-08-02T06:48:01.727Z"
+    "timestamp": "2026-09-20T14:08:05.326Z"
   }
 }

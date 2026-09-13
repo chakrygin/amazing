@@ -1,1 +1,0 @@
-https://khalidabuhakmeh.com/dynamic-htmx-islands-with-aspnet-core

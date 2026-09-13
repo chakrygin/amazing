@@ -1,3 +1,0 @@
-https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/
-https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/
-https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/
