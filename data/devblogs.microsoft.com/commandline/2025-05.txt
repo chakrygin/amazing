@@ -1,2 +1,0 @@
-https://devblogs.microsoft.com/commandline/edit-is-now-open-source/
-https://devblogs.microsoft.com/commandline/fedora-linux-is-now-an-official-wsl-distro/
