@@ -1,3 +1,4 @@
 https://www.meziantou.net/benchmarking-dotnet-test-frameworks-xunit-v3-nunit-mstest-and-tunit.htm
 https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm
 https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm
+https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm
