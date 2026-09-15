@@ -1,1 +1,2 @@
 https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/
+https://andrewlock.net/understanding-device-bound-session-credentials/
