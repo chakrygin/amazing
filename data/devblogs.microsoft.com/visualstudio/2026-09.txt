@@ -1,3 +1,4 @@
+https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/
 https://devblogs.microsoft.com/visualstudio/stop-alt-tabbing-into-the-wrong-visual-studio/
 https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/
 https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/
