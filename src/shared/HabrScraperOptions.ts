@@ -1,4 +1,22 @@
 export const Options = {
+  // devops
+  'devops': {
+    title: 'DevOps',
+    minRating: 20,
+  },
+  'it-infrastructure': {
+    title: 'IT-инфраструктура',
+    minRating: 20,
+  },
+  'kubernetes': {
+    title: 'Kubernetes',
+    minRating: 20,
+  },
+  'postgresql': {
+    title: 'PostgreSQL',
+    minRating: 20,
+  },
+
   // dotnet
   'net': {
     title: '.NET',

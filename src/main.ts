@@ -1,5 +1,8 @@
 import { App } from '@core/App';
 
+// devops
+import { KubernetesScraper } from './devops/KubernetesScraper';
+
 // dotnet
 import { AndrewLockScraper } from './dotnet/AndrewLockScraper';
 import { BreslavLozhechkinScraper } from './dotnet/BreslavLozhechkinScraper';
@@ -27,6 +30,15 @@ const app = new App({
     new MeziantouScraper(),
     new RadioDotNetScraper(),
     new StevenGieselScraper(),
+  ],
+  'devops': [
+    new DevBlogsScraper('commandline'),
+    new DevBlogsScraper('powershell'),
+    new HabrScraper('devops'),
+    new HabrScraper('it-infrastructure'),
+    new HabrScraper('kubernetes'),
+    new HabrScraper('postgresql'),
+    new KubernetesScraper(),
   ],
   'frontend': [
     new DevBlogsScraper('typescript'),
