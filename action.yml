@@ -14,6 +14,10 @@ inputs:
     description: AMAZING_PRIVATE_CHAT_ID
     required: true
 
+  AMAZING_DEVOPS_CHAT_ID:
+    description: AMAZING_DEVOPS_CHAT_ID
+    required: true
+
   AMAZING_DOTNET_CHAT_ID:
     description: AMAZING_DOTNET_CHAT_ID
     required: true
