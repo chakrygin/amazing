@@ -1,5 +1,5 @@
-name: Amazing
-description: Amazing
+name: Scrape
+description: Scrape
 
 runs:
   using: node24
