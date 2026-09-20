@@ -1,2 +1,0 @@
-https://codeopinion.com/decoupling-in-software-architecture-moves-complexity/
-https://codeopinion.com/event-driven-architecture-and-coupling-youre-not-as-decoupled-as-you-think/

@@ -1,2 +1,0 @@
-https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/
-https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/

@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/odata/odata-net-8-preview-release/

@@ -8,7 +8,7 @@
       "console": "integratedTerminal",
       "program": "src/main.ts",
       "cwd": "${workspaceFolder}",
-      "envFile": "${env:USERPROFILE}/amazing.env",
+      "envFile": "${workspaceFolder}/debug.env",
       "runtimeExecutable": "tsx",
       "skipFiles": [
         "<node_internals>/**",

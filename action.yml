@@ -1,21 +1,21 @@
-name: Scrape
-description: Scrape
+name: Amazing
+description: Amazing
 
 runs:
-  using: node20
+  using: node24
   main: dist/index.js
 
 inputs:
-  TELEGRAM_TOKEN:
-    description: TELEGRAM_TOKEN
+  AMAZING_TOKEN:
+    description: AMAZING_TOKEN
     required: true
 
-  TELEGRAM_PUBLIC_CHAT_ID:
-    description: TELEGRAM_PUBLIC_CHAT_ID
+  AMAZING_PRIVATE_CHAT_ID:
+    description: AMAZING_PRIVATE_CHAT_ID
     required: true
 
-  TELEGRAM_PRIVATE_CHAT_ID:
-    description: TELEGRAM_PRIVATE_CHAT_ID
+  AMAZING_DOTNET_CHAT_ID:
+    description: AMAZING_DOTNET_CHAT_ID
     required: true
 
 outputs:

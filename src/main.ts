@@ -1,36 +1,36 @@
 import { App } from '@core/App';
 
-import { AndrewLockScraper } from './scrapers/AndrewLockScraper';
-import { BreslavLozhechkinScraper } from './scrapers/BreslavLozhechkinScraper';
-import { CodeMazeScraper } from './scrapers/CodeMazeScraper';
-import { CodeOpinionScraper } from './scrapers/CodeOpinionScraper';
-import { DevBlogsScraper } from './scrapers/DevBlogsScraper';
-import { HabrScraper } from './scrapers/HabrScraper';
-import { JetBrainsBlogScraper } from './scrapers/JetBrainsBlogScraper';
-import { MeziantouScraper } from './scrapers/MeziantouScraper';
-import { RadioDotNetScraper } from './scrapers/RadioDotNetScraper';
-import { StevenGieselScraper } from './scrapers/StevenGieselScraper';
-import { TheMorningBrewScraper } from './scrapers/TheMorningBrewScraper';
+// dotnet
+import { AndrewLockScraper } from './dotnet/AndrewLockScraper';
+import { BreslavLozhechkinScraper } from './dotnet/BreslavLozhechkinScraper';
+import { CodeOpinionScraper } from './dotnet/CodeOpinionScraper';
+import { JetBrainsBlogScraper } from './dotnet/JetBrainsBlogScraper';
+import { MeziantouScraper } from './dotnet/MeziantouScraper';
+import { RadioDotNetScraper } from './dotnet/RadioDotNetScraper';
+import { StevenGieselScraper } from './dotnet/StevenGieselScraper';
 
-const app = new App(knownHosts => [
-  new AndrewLockScraper(),
-  new BreslavLozhechkinScraper(),
-  new CodeMazeScraper(knownHosts),
-  new CodeOpinionScraper(),
-  new DevBlogsScraper('dotnet'),
-  new DevBlogsScraper('typescript'),
-  new DevBlogsScraper('visualstudio'),
-  new DevBlogsScraper('commandline'),
-  new HabrScraper('net'),
-  new HabrScraper('csharp'),
-  new HabrScraper('fsharp'),
-  new JetBrainsBlogScraper('how-tos'),
-  new JetBrainsBlogScraper('releases'),
-  new JetBrainsBlogScraper('dotinsights', knownHosts),
-  new MeziantouScraper(),
-  new RadioDotNetScraper(),
-  new StevenGieselScraper(),
-  new TheMorningBrewScraper(knownHosts),
-]);
+// shared
+import { DevBlogsScraper } from './shared/DevBlogsScraper';
+import { HabrScraper } from './shared/HabrScraper';
 
-void app.run();
+const app = new App({
+  'dotnet': [
+    new AndrewLockScraper(),
+    new BreslavLozhechkinScraper(),
+    new CodeOpinionScraper(),
+    new DevBlogsScraper('dotnet'),
+    new DevBlogsScraper('visualstudio'),
+    new HabrScraper('net'),
+    new HabrScraper('csharp'),
+    new HabrScraper('fsharp'),
+    new JetBrainsBlogScraper(),
+    new MeziantouScraper(),
+    new RadioDotNetScraper(),
+    new StevenGieselScraper(),
+  ],
+  // 'frontend': [
+  //   new DevBlogsScraper('typescript'),
+  // ],
+});
+
+await app.run();

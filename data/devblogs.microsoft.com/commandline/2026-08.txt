@@ -1,2 +1,0 @@
-https://devblogs.microsoft.com/commandline/intelligent-terminal-0-2-is-here-with-local-model-support/
-https://devblogs.microsoft.com/commandline/powertoys-0-101-is-here-window-hopper-insider-updates-and-command-palette-compact-mode/

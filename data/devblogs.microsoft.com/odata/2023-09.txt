@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/odata/deep-insert-support-in-odata-client/

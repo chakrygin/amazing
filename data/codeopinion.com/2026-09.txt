@@ -1,2 +1,0 @@
-https://codeopinion.com/avoid-api-breaking-changes/
-https://codeopinion.com/domain-events-are-not-your-public-api/

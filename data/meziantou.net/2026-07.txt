@@ -1,2 +1,0 @@
-https://www.meziantou.net/get-a-unicode-character-name-from-a-rune-in-dotnet.htm
-https://www.meziantou.net/number-comparison-in-dotnet-equals-and-ieee-754-edge-cases.htm

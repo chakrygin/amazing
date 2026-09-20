@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/odata/enable-cbor-within-asp-net-core-odata/
