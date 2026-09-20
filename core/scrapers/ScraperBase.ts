@@ -39,8 +39,8 @@ export abstract class ScraperBase implements Scraper {
     let firstDate: dayjs.Dayjs | undefined;
 
     for await (let post of this.fetch()) {
-      core.info(post.title);
-      core.info(post.href);
+      core.info(post.title.trim());
+      core.info(post.href.trim());
 
       if (storage.has(post.href)) {
         core.info('The post already exists in the storage. Break scraping.');
@@ -77,8 +77,8 @@ export abstract class ScraperBase implements Scraper {
 
   private async scrapeWithContinueIfPostExists(sender: Sender, storage: Storage): Promise<void> {
     for await (let post of this.fetch()) {
-      core.info(post.title);
-      core.info(post.href);
+      core.info(post.title.trim());
+      core.info(post.href.trim());
 
       if (storage.has(post.href)) {
         core.info('The post already exists in the storage. Continue scraping.');
