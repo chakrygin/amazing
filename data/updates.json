@@ -11,11 +11,17 @@
   "DevBlogs / .NET Blog": {
     "timestamp": "2026-09-20T14:18:55.690Z"
   },
+  "DevBlogs / PowerShell Team": {
+    "timestamp": "2026-09-20T22:22:01.301Z"
+  },
   "DevBlogs / TypeScript": {
     "timestamp": "2026-09-20T16:05:19.421Z"
   },
   "DevBlogs / Visual Studio Blog": {
     "timestamp": "2026-09-20T14:19:00.610Z"
+  },
+  "DevBlogs / Windows Command Line": {
+    "timestamp": "2026-09-20T22:21:56.082Z"
   },
   "Habr / .NET": {
     "timestamp": "2026-09-20T14:19:21.007Z"
@@ -23,17 +29,32 @@
   "Habr / C#": {
     "timestamp": "2026-09-20T14:19:26.199Z"
   },
+  "Habr / DevOps": {
+    "timestamp": "2026-09-20T22:22:11.554Z"
+  },
   "Habr / F#": {
     "timestamp": "2026-09-20T14:19:36.474Z"
   },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2026-09-20T22:22:21.924Z"
+  },
   "Habr / JavaScript": {
     "timestamp": "2026-09-20T16:05:34.678Z"
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2026-09-20T22:22:32.312Z"
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2026-09-20T22:22:52.992Z"
   },
   "Habr / TypeScript": {
     "timestamp": "2026-09-20T16:05:39.809Z"
   },
   "JetBrains / .NET Tools": {
     "timestamp": "2026-09-20T14:19:41.785Z"
+  },
+  "Kubernetes": {
+    "timestamp": "2026-09-20T22:22:58.531Z"
   },
   "Meziantou": {
     "timestamp": "2026-09-20T14:19:46.869Z"
