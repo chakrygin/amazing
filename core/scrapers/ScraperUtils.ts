@@ -32,8 +32,5 @@ function mergeArray<T>(array: T[] | undefined, patch: T[] | undefined): T[] {
 
 export function printPost(post: Post) {
   const json = JSON.stringify(post, null, 2);
-
-  core.startGroup('JSON');
-  core.info(json);
-  core.endGroup();
+  core.info('JSON: ' + json);
 }
