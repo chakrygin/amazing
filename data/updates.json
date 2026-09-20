@@ -1,91 +1,38 @@
 {
   "AndrewLock": {
-<<<<<<< HEAD
-    "timestamp": "2026-09-20T14:06:48.066Z"
-=======
-    "timestamp": "2026-09-15T12:05:07.120Z"
->>>>>>> origin/main
+    "timestamp": "2026-09-20T14:18:39.891Z"
   },
   "BreslavLozhechkin": {
-    "timestamp": "2026-09-20T14:06:53.290Z"
+    "timestamp": "2026-09-20T14:18:45.041Z"
   },
   "CodeOpinion": {
-<<<<<<< HEAD
-    "timestamp": "2026-09-20T14:06:58.407Z"
+    "timestamp": "2026-09-20T14:18:50.232Z"
   },
   "DevBlogs / .NET Blog": {
-    "timestamp": "2026-09-20T14:07:03.881Z"
+    "timestamp": "2026-09-20T14:18:55.690Z"
   },
   "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2026-09-20T14:07:08.828Z"
+    "timestamp": "2026-09-20T14:19:00.610Z"
   },
   "Habr / .NET": {
-    "timestamp": "2026-09-20T14:07:29.387Z"
-=======
-    "timestamp": "2026-09-15T21:44:10.094Z"
-  },
-  "DevBlogs / .NET Blog": {
-    "timestamp": "2026-09-16T21:41:26.419Z"
-  },
-  "DevBlogs / OData": {
-    "timestamp": "2024-08-30T10:46:16.841Z"
-  },
-  "DevBlogs / The NuGet Blog": {
-    "timestamp": "2024-11-04T18:47:45.176Z"
-  },
-  "DevBlogs / TypeScript": {
-    "timestamp": "2026-07-08T18:04:14.118Z"
-  },
-  "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2026-09-16T18:24:30.774Z"
-  },
-  "DevBlogs / Windows Command Line": {
-    "timestamp": "2026-09-14T23:26:54.095Z"
-  },
-  "Habr / .NET": {
-    "timestamp": "2026-09-18T17:51:25.496Z"
->>>>>>> origin/main
+    "timestamp": "2026-09-20T14:19:21.007Z"
   },
   "Habr / C#": {
-    "timestamp": "2026-09-20T14:07:34.529Z"
+    "timestamp": "2026-09-20T14:19:26.199Z"
   },
   "Habr / F#": {
-    "timestamp": "2026-09-20T14:07:44.814Z"
+    "timestamp": "2026-09-20T14:19:36.474Z"
   },
-<<<<<<< HEAD
   "JetBrains / .NET Tools": {
-    "timestamp": "2026-09-20T14:07:50.126Z"
+    "timestamp": "2026-09-20T14:19:41.785Z"
   },
   "Meziantou": {
-    "timestamp": "2026-09-20T14:07:55.344Z"
-=======
-  "JetBrains / How-To's": {
-    "timestamp": "2025-11-11T16:53:16.406Z"
-  },
-  "JetBrains / Releases": {
-    "timestamp": "2026-09-16T18:24:38.509Z"
-  },
-  "JetBrains / dotInsights": {
-    "timestamp": "2026-07-10T11:30:59.447Z"
-  },
-  "KhalidAbuhakmeh": {
-    "timestamp": "2025-04-22T16:51:58.917Z"
-  },
-  "Meziantou": {
-    "timestamp": "2026-09-14T13:19:43.728Z"
->>>>>>> origin/main
+    "timestamp": "2026-09-20T14:19:46.869Z"
   },
   "RadioDotNet": {
-    "timestamp": "2026-09-20T14:08:00.194Z"
+    "timestamp": "2026-09-20T14:19:51.968Z"
   },
   "StevenGiesel": {
-<<<<<<< HEAD
-    "timestamp": "2026-09-20T14:08:05.326Z"
-=======
-    "timestamp": "2026-09-18T13:08:20.560Z"
-  },
-  "TheMorningBrew": {
-    "timestamp": "2024-08-02T06:48:01.727Z"
->>>>>>> origin/main
+    "timestamp": "2026-09-20T14:19:57.177Z"
   }
 }

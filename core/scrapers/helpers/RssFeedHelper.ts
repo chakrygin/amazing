@@ -22,9 +22,7 @@ export class RssFeedHelper<TFeed, TItem> {
     }
 
     for (let index = 0; index < feed.items.length; index++) {
-      core.info('');
       core.info('========================================');
-      core.info('');
       core.info(`Parsing post at index ${String(index)}`);
 
       const item = feed.items[index];

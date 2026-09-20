@@ -25,9 +25,7 @@ export class HtmlPageHelper {
     }
 
     for (let index = 0; index < elements.length; index++) {
-      core.info('');
       core.info('========================================');
-      core.info('');
       core.info(`Parsing post at index ${String(index)}`);
 
       const element = $(elements[index]);

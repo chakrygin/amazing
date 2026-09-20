@@ -39,9 +39,7 @@ export class NuxtDataHelper {
     }
 
     for (const post of parse(decodedNuxtData as T)) {
-      core.info('');
       core.info('========================================');
-      core.info('');
 
       yield post;
     }
