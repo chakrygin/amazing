@@ -1,11 +1,14 @@
 export const Options = {
+  // dotnet
   'dotnet': {
     title: '.NET Blog',
   },
-  'typescript': {
-    title: 'TypeScript',
-  },
   'visualstudio': {
     title: 'Visual Studio Blog',
+  },
+
+  // frontend
+  'typescript': {
+    title: 'TypeScript',
   },
 };

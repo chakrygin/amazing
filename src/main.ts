@@ -28,9 +28,11 @@ const app = new App({
     new RadioDotNetScraper(),
     new StevenGieselScraper(),
   ],
-  // 'frontend': [
-  //   new DevBlogsScraper('typescript'),
-  // ],
+  'frontend': [
+    new DevBlogsScraper('typescript'),
+    new HabrScraper('javascript'),
+    new HabrScraper('typescript'),
+  ],
 });
 
 await app.run();

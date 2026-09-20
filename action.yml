@@ -18,6 +18,10 @@ inputs:
     description: AMAZING_DOTNET_CHAT_ID
     required: true
 
+  AMAZING_FRONTEND_CHAT_ID:
+    description: AMAZING_FRONTEND_CHAT_ID
+    required: true
+
 outputs:
   COMMIT_MESSAGE:
     description: COMMIT_MESSAGE
