@@ -1,1 +1,2 @@
+https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/
 https://andrewlock.net/understanding-device-bound-session-credentials/
