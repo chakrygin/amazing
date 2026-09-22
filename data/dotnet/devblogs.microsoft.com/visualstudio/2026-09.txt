@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/
+https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/
