@@ -13,6 +13,9 @@ export default defineConfig({
     file: 'dist/index.js',
     format: 'es',
   },
+  external: [
+    'node:sqlite',
+  ],
   plugins: [
     nodeResolve({
       preferBuiltins: true,
