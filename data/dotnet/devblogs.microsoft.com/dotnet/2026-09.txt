@@ -1,2 +1,3 @@
 https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/
 https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/
+https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/
