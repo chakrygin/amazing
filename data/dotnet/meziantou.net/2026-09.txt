@@ -1,2 +1,3 @@
+https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm
 https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm
 https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm
