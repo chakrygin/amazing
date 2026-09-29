@@ -1,2 +1,3 @@
 https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/
 https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/
+https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/

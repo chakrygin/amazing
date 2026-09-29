@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/commandline/intelligent-terminal-0-2-25-performance-reliability/
+https://devblogs.microsoft.com/commandline/wslc-architecture-deep-dive/
