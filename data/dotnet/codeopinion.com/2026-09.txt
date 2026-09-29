@@ -1,1 +1,2 @@
 https://codeopinion.com/avoid-api-breaking-changes/
+https://codeopinion.com/multi-tenant-best-practices-can-backfire/
