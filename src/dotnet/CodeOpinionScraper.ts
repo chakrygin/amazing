@@ -53,7 +53,7 @@ function getImage(lines: readonly string[]): string | undefined {
       const endIndex = line.indexOf('"', startIndex + search.length);
       if (endIndex > startIndex) {
         const id = line.substring(startIndex + search.length, endIndex);
-        return `https://img.youtube.com/vi/${id}/maxresdefault.jpg`;
+        return `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`;
       }
     }
   }
