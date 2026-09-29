@@ -60,3 +60,17 @@ The Action appends scraped hrefs to `data/<category>/<path>/YYYY-MM.txt` and tou
 - Import groups are separated by a blank line, in this order: `@actions/*`, other packages, `@core/*` and `@src/*`, `./…`, `../…`.
 - The path aliases `@core/*` and `@src/*` are declared twice, in `tsconfig.json` `paths` and `jest.config.ts` `moduleNameMapper`. Keep both in sync.
 - Write code, comments, and commit messages in English. Commit messages are short and imperative ("Fix logging", "Add KubernetesScraper"); `Scraped: …` commits come from the workflow, not from you.
+
+## Agent skills
+
+### Issue tracker
+
+Issues are tracked on GitHub. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Triage uses the default label vocabulary. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context layout. See `docs/agents/domain.md`.
