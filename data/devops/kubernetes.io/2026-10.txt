@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/

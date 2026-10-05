@@ -1,0 +1,1 @@
+https://www.meziantou.net/why-async-exists-the-cost-of-blocking-a-thread.htm
