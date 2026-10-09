@@ -1,3 +1,4 @@
+https://www.meziantou.net/how-the-csharp-compiler-rewrites-an-async-method.htm
 https://www.meziantou.net/task-taskcompletionsource-and-the-task-lifecycle.htm
 https://www.meziantou.net/the-awaitable-pattern-writing-your-own-awaitable.htm
 https://www.meziantou.net/there-is-no-thread-os-async-i-o-and-the-dotnet-thread-pool.htm
