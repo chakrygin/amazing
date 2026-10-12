@@ -1,2 +1,3 @@
+https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/
 https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/
 https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/
