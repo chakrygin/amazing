@@ -1,2 +1,3 @@
 https://devblogs.microsoft.com/visualstudio/new-tools-new-workflows-and-the-value-of-the-visual-studio-subscription-what-we-learned-at-vslive-san-diego/
+https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/
 https://devblogs.microsoft.com/visualstudio/what-would-you-build-in-azure-if-you-didnt-have-to-ask-for-a-budget-first/
