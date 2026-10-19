@@ -1,4 +1,4 @@
-export const Options = {
+export const Options: Record<string, { title: string }> = {
   // devops
   'commandline': {
     title: 'Windows Command Line',

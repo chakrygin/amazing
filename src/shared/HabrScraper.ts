@@ -35,7 +35,17 @@ export class HabrScraper extends ScraperBase {
 
   protected override fetch(): AsyncGenerator<Post> {
     return this
-      .fromHtmlPage(this.href)
+      .fromHtmlPages(() => {
+        const urls = [this.href];
+
+        if (this.options.pages) {
+          for (let index = 2; index <= this.options.pages; index++) {
+            urls.push(this.href + `page${String(index)}`);
+          }
+        }
+
+        return urls;
+      })
       .fetch('#app main .tm-articles-list article.tm-articles-list__item', ($, element) => {
 
         const ratingText = element.find('.tm-votes-meter__value').text();

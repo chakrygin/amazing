@@ -10,7 +10,7 @@ import { mergePost, printPost } from './ScraperUtils';
 import { Post } from '../models';
 import { Sender } from '../senders';
 import { Storage } from '../storages';
-import { HtmlPageHelper, NuxtDataHelper, RssFeedHelper } from './helpers';
+import { HtmlPageHelper, HtmlPagesHelper, NuxtDataHelper, RssFeedHelper } from './helpers';
 
 export abstract class ScraperBase implements Scraper {
   constructor(
@@ -114,6 +114,10 @@ export abstract class ScraperBase implements Scraper {
 
   protected fromHtmlPage(url: string): HtmlPageHelper {
     return new HtmlPageHelper(url);
+  }
+
+  protected fromHtmlPages(urls: () => readonly string[]): HtmlPagesHelper {
+    return new HtmlPagesHelper(urls());
   }
 
   protected fromNuxtData(url: string, trustCertificate = false): NuxtDataHelper {

@@ -1,8 +1,9 @@
-export const Options = {
+export const Options: Record<string, { title: string, minRating: number, pages?: number }> = {
   // ai
-  'artificial_intelligence' : {
+  'artificial_intelligence': {
     title: 'Искусственный интеллект',
     minRating: 10,
+    pages: 3,
   },
 
   // devops
