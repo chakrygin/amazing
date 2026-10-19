@@ -1,4 +1,10 @@
 export const Options = {
+  // ai
+  'artificial_intelligence' : {
+    title: 'Искусственный интеллект',
+    minRating: 10,
+  },
+
   // devops
   'devops': {
     title: 'DevOps',

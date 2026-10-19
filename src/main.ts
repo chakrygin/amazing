@@ -17,6 +17,9 @@ import { DevBlogsScraper } from './shared/DevBlogsScraper';
 import { HabrScraper } from './shared/HabrScraper';
 
 const app = new App({
+  'ai': [
+    new HabrScraper('artificial_intelligence'),
+  ],
   'dotnet': [
     new AndrewLockScraper(),
     new BreslavLozhechkinScraper(),
