@@ -22,10 +22,11 @@ jobs:
         uses: ./
         with:
           AMAZING_TOKEN: ${{ secrets.AMAZING_TOKEN }}
-          AMAZING_PRIVATE_CHAT_ID: ${{ vars.AMAZING_PRIVATE_CHAT_ID }}
+          AMAZING_AI_CHAT_ID: ${{ vars.AMAZING_AI_CHAT_ID }}
           AMAZING_DEVOPS_CHAT_ID: ${{ vars.AMAZING_DEVOPS_CHAT_ID }}
           AMAZING_DOTNET_CHAT_ID: ${{ vars.AMAZING_DOTNET_CHAT_ID }}
           AMAZING_FRONTEND_CHAT_ID: ${{ vars.AMAZING_FRONTEND_CHAT_ID }}
+          AMAZING_PRIVATE_CHAT_ID: ${{ vars.AMAZING_PRIVATE_CHAT_ID }}
 
       # https://github.com/marketplace/actions/add-commit
       - name: Commit

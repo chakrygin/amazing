@@ -10,8 +10,8 @@ inputs:
     description: AMAZING_TOKEN
     required: true
 
-  AMAZING_PRIVATE_CHAT_ID:
-    description: AMAZING_PRIVATE_CHAT_ID
+  AMAZING_AI_CHAT_ID:
+    description: AMAZING_AI_CHAT_ID
     required: true
 
   AMAZING_DEVOPS_CHAT_ID:
@@ -24,6 +24,10 @@ inputs:
 
   AMAZING_FRONTEND_CHAT_ID:
     description: AMAZING_FRONTEND_CHAT_ID
+    required: true
+
+  AMAZING_PRIVATE_CHAT_ID:
+    description: AMAZING_PRIVATE_CHAT_ID
     required: true
 
 outputs:

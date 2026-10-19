@@ -82,10 +82,7 @@ export class HabrScraper extends ScraperBase {
   }
 
   private getImage(element: cheerio.Cheerio<Element>): string | undefined {
-    const src =
-      element.find('img.tm-article-snippet__lead-image').attr('src') ??
-      element.find('.article-formatted-body img:first-child').attr('src');
-
+    const src = element.find('img.lead-image').attr('src');
     return src;
   }
 
