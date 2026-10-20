@@ -1,1 +1,2 @@
+https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/
 https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/
