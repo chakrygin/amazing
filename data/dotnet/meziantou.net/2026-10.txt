@@ -2,6 +2,7 @@ https://www.meziantou.net/async-method-builders-and-where-the-allocations-go.htm
 https://www.meziantou.net/async-streams-iasyncenumerable-and-await-foreach.htm
 https://www.meziantou.net/executioncontext-what-flows-across-an-await.htm
 https://www.meziantou.net/how-the-csharp-compiler-rewrites-an-async-method.htm
+https://www.meziantou.net/iasyncdisposable-and-await-using.htm
 https://www.meziantou.net/synchronizationcontext-configureawait-and-deadlocks.htm
 https://www.meziantou.net/task-taskcompletionsource-and-the-task-lifecycle.htm
 https://www.meziantou.net/task-vs-valuetask-and-ivaluetasksource.htm
