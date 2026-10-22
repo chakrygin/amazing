@@ -3,6 +3,7 @@ https://habr.com/ru/articles/1096048/
 https://habr.com/ru/articles/1096446/
 https://habr.com/ru/articles/1096958/
 https://habr.com/ru/articles/1097004/
+https://habr.com/ru/articles/1097460/
 https://habr.com/ru/companies/alfa/articles/1096666/
 https://habr.com/ru/companies/avito/articles/1087672/
 https://habr.com/ru/companies/bitrix/articles/1094578/
@@ -10,5 +11,6 @@ https://habr.com/ru/companies/cloud_ru/articles/1096336/
 https://habr.com/ru/companies/lukit_ru/articles/1095428/
 https://habr.com/ru/companies/ru_mts/articles/1095258/
 https://habr.com/ru/companies/ruvds/articles/1097194/
+https://habr.com/ru/companies/studyai/articles/1097316/
 https://habr.com/ru/companies/timeweb/articles/1091210/
 https://habr.com/ru/companies/timeweb/articles/1094334/
