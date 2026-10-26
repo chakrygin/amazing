@@ -1,1 +1,2 @@
 https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1/a-personal-note-i-built-a-running-app-for-ios-and-watchos
+https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a/primary-constructors-are-more-than-syntactic-sugar
