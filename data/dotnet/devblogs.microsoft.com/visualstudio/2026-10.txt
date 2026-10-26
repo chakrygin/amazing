@@ -1,4 +1,5 @@
 https://devblogs.microsoft.com/visualstudio/compare-todays-code-with-an-earlier-commit/
+https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/
 https://devblogs.microsoft.com/visualstudio/new-tools-new-workflows-and-the-value-of-the-visual-studio-subscription-what-we-learned-at-vslive-san-diego/
 https://devblogs.microsoft.com/visualstudio/organize-and-revisit-tabs-with-the-keyboard/
 https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/

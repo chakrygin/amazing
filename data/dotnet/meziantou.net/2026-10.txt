@@ -5,6 +5,7 @@ https://www.meziantou.net/composing-async-work-whenall-whenany-and-wheneach.htm
 https://www.meziantou.net/executioncontext-what-flows-across-an-await.htm
 https://www.meziantou.net/how-the-csharp-compiler-rewrites-an-async-method.htm
 https://www.meziantou.net/iasyncdisposable-and-await-using.htm
+https://www.meziantou.net/synchronization-in-async-code-lock-and-semaphoreslim.htm
 https://www.meziantou.net/synchronizationcontext-configureawait-and-deadlocks.htm
 https://www.meziantou.net/task-taskcompletionsource-and-the-task-lifecycle.htm
 https://www.meziantou.net/task-vs-valuetask-and-ivaluetasksource.htm
