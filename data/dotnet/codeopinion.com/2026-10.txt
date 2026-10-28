@@ -1,2 +1,3 @@
 https://codeopinion.com/crud-vs-task-driven/
+https://codeopinion.com/database-generated-ids/
 https://codeopinion.com/event-driven-architecture-problems/
