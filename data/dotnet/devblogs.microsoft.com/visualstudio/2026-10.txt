@@ -2,6 +2,7 @@ https://devblogs.microsoft.com/visualstudio/compare-todays-code-with-an-earlier-
 https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/
 https://devblogs.microsoft.com/visualstudio/new-tools-new-workflows-and-the-value-of-the-visual-studio-subscription-what-we-learned-at-vslive-san-diego/
 https://devblogs.microsoft.com/visualstudio/organize-and-revisit-tabs-with-the-keyboard/
+https://devblogs.microsoft.com/visualstudio/preparing-for-your-next-certification-could-start-with-your-visual-studio-subscription/
 https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/
 https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding/
 https://devblogs.microsoft.com/visualstudio/what-should-we-blog-about-next/
