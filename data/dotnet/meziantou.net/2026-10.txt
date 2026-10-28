@@ -11,6 +11,7 @@ https://www.meziantou.net/synchronizationcontext-configureawait-and-deadlocks.ht
 https://www.meziantou.net/task-taskcompletionsource-and-the-task-lifecycle.htm
 https://www.meziantou.net/task-vs-valuetask-and-ivaluetasksource.htm
 https://www.meziantou.net/the-awaitable-pattern-writing-your-own-awaitable.htm
+https://www.meziantou.net/the-cost-of-async-a-benchmarkdotnet-study-on-dotnet-10.htm
 https://www.meziantou.net/there-is-no-thread-os-async-i-o-and-the-dotnet-thread-pool.htm
 https://www.meziantou.net/why-async-exists-the-cost-of-blocking-a-thread.htm
 https://www.meziantou.net/writing-your-own-cancellationtoken-from-scratch.htm
