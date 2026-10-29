@@ -1,2 +1,3 @@
 https://blog.jetbrains.com/dotnet/2026/10/05/dotinsights-october-2026/
 https://blog.jetbrains.com/dotnet/2026/10/19/jetbrains-dotnet-day-online-2026-watch-the-recordings/
+https://blog.jetbrains.com/dotnet/2026/10/29/from-gdscript-to-gdextensions-one-ide-for-your-godot-code/

@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swa
 https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/
 https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/
 https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/
+https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/
