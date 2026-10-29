@@ -1,4 +1,5 @@
 https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/
+https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/
 https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/
 https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/
 https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/
