@@ -10,6 +10,7 @@ https://habr.com/ru/companies/h3llo_cloud/articles/1094318/
 https://habr.com/ru/companies/h3llo_cloud/articles/953934/
 https://habr.com/ru/companies/k2tech/articles/1094766/
 https://habr.com/ru/companies/k2tech/articles/1097038/
+https://habr.com/ru/companies/kts/articles/1101622/
 https://habr.com/ru/companies/open-aot/articles/1089536/
 https://habr.com/ru/companies/postgrespro/articles/1092566/
 https://habr.com/ru/companies/ruvds/articles/1088324/
@@ -28,10 +29,13 @@ https://habr.com/ru/companies/selectel/articles/1094580/
 https://habr.com/ru/companies/selectel/articles/1096106/
 https://habr.com/ru/companies/selectel/articles/1096702/
 https://habr.com/ru/companies/selectel/articles/1098212/
+https://habr.com/ru/companies/selectel/articles/1099322/
+https://habr.com/ru/companies/selectel/articles/1101540/
 https://habr.com/ru/companies/tantor/articles/1090882/
 https://habr.com/ru/companies/timeweb/articles/1085370/
 https://habr.com/ru/companies/timeweb/articles/1085484/
 https://habr.com/ru/companies/timeweb/articles/1093966/
+https://habr.com/ru/companies/yadro/articles/1092232/
 https://habr.com/ru/companies/yadro/articles/1096064/
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1087446/
 https://habr.com/ru/companies/yougile/articles/1096746/
