@@ -22,6 +22,7 @@ https://habr.com/ru/articles/1099810/
 https://habr.com/ru/articles/1099962/
 https://habr.com/ru/articles/1101038/
 https://habr.com/ru/articles/1101470/
+https://habr.com/ru/articles/1101770/
 https://habr.com/ru/articles/1101852/
 https://habr.com/ru/companies/alfa/articles/1096666/
 https://habr.com/ru/companies/alfa/articles/1100178/
@@ -32,6 +33,7 @@ https://habr.com/ru/companies/cloud_ru/articles/1096336/
 https://habr.com/ru/companies/directum/articles/1100382/
 https://habr.com/ru/companies/kts/articles/1099956/
 https://habr.com/ru/companies/lukit_ru/articles/1095428/
+https://habr.com/ru/companies/lukit_ru/articles/1100404/
 https://habr.com/ru/companies/magnus-tech/articles/1097928/
 https://habr.com/ru/companies/nlmk/articles/1091666/
 https://habr.com/ru/companies/otus/articles/1096720/
