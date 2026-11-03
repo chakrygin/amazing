@@ -1,1 +1,2 @@
+https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/
 https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/
