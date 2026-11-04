@@ -1,2 +1,3 @@
 https://www.meziantou.net/migrating-to-runtime-async.htm
 https://www.meziantou.net/runtime-async-benchmarks-dotnet-10-vs-dotnet-11.htm
+https://www.meziantou.net/sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm
