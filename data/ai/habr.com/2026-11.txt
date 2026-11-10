@@ -23,6 +23,9 @@ https://habr.com/ru/articles/1105054/
 https://habr.com/ru/articles/1105108/
 https://habr.com/ru/articles/1105224/
 https://habr.com/ru/articles/1105354/
+https://habr.com/ru/articles/1105356/
+https://habr.com/ru/articles/1105522/
+https://habr.com/ru/articles/1105656/
 https://habr.com/ru/companies/3opinion/articles/1101730/
 https://habr.com/ru/companies/bhv_publishing/articles/1102644/
 https://habr.com/ru/companies/bitrix/articles/1101856/
@@ -31,6 +34,7 @@ https://habr.com/ru/companies/gigapisar/articles/1105184/
 https://habr.com/ru/companies/h3llo_cloud/articles/1103976/
 https://habr.com/ru/companies/hexlet/articles/1103584/
 https://habr.com/ru/companies/magnus-tech/articles/1104754/
+https://habr.com/ru/companies/mts_ai/articles/1094828/
 https://habr.com/ru/companies/otus/articles/1101862/
 https://habr.com/ru/companies/piter/articles/1103896/
 https://habr.com/ru/companies/ru_mts/articles/1101704/
