@@ -1,4 +1,5 @@
 https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/
+https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/
 https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/
 https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/
 https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/
