@@ -1,3 +1,4 @@
 https://devblogs.microsoft.com/visualstudio/announcing-visual-studio-2026-ltsc-1811/
+https://devblogs.microsoft.com/visualstudio/bring-your-own-model-is-now-generally-available-in-visual-studio/
 https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/
 https://devblogs.microsoft.com/visualstudio/keep-learning-keep-building-make-the-most-of-vslive-with-your-visual-studio-subscription/

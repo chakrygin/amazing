@@ -3,6 +3,7 @@ https://habr.com/ru/articles/1103460/
 https://habr.com/ru/articles/1104698/
 https://habr.com/ru/articles/1105056/
 https://habr.com/ru/articles/1105758/
+https://habr.com/ru/articles/1106276/
 https://habr.com/ru/companies/aenix/articles/1102128/
 https://habr.com/ru/companies/h3llo_cloud/articles/1101780/
 https://habr.com/ru/companies/h3llo_cloud/articles/1103154/
@@ -14,5 +15,6 @@ https://habr.com/ru/companies/selectel/articles/1101668/
 https://habr.com/ru/companies/selectel/articles/1102746/
 https://habr.com/ru/companies/selectel/articles/1102818/
 https://habr.com/ru/companies/selectel/articles/1105526/
+https://habr.com/ru/companies/selectel/articles/1105990/
 https://habr.com/ru/companies/shtab/articles/1103050/
 https://habr.com/ru/companies/yandex/articles/1105352/
