@@ -7,6 +7,7 @@ https://habr.com/ru/articles/1106276/
 https://habr.com/ru/companies/aenix/articles/1102128/
 https://habr.com/ru/companies/h3llo_cloud/articles/1101780/
 https://habr.com/ru/companies/h3llo_cloud/articles/1103154/
+https://habr.com/ru/companies/open-aot/articles/1090988/
 https://habr.com/ru/companies/open-aot/articles/1100086/
 https://habr.com/ru/companies/ruvds/articles/1097558/
 https://habr.com/ru/companies/selectel/articles/1093826/
@@ -17,4 +18,5 @@ https://habr.com/ru/companies/selectel/articles/1102818/
 https://habr.com/ru/companies/selectel/articles/1105526/
 https://habr.com/ru/companies/selectel/articles/1105990/
 https://habr.com/ru/companies/shtab/articles/1103050/
+https://habr.com/ru/companies/vktech/articles/1074222/
 https://habr.com/ru/companies/yandex/articles/1105352/
