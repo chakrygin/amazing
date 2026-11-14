@@ -37,6 +37,9 @@ https://habr.com/ru/articles/1106854/
 https://habr.com/ru/articles/1106860/
 https://habr.com/ru/articles/1107234/
 https://habr.com/ru/articles/1107484/
+https://habr.com/ru/articles/1107658/
+https://habr.com/ru/articles/1107662/
+https://habr.com/ru/articles/1107708/
 https://habr.com/ru/articles/1107726/
 https://habr.com/ru/companies/3opinion/articles/1101730/
 https://habr.com/ru/companies/bhv_publishing/articles/1102644/
@@ -80,3 +83,4 @@ https://habr.com/ru/companies/yandex/articles/1104474/
 https://habr.com/ru/companies/yandex/articles/1105352/
 https://habr.com/ru/companies/yougile/articles/1103954/
 https://habr.com/ru/companies/yougile/articles/1106484/
+https://habr.com/ru/companies/yougile/articles/1107790/
