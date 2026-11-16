@@ -45,7 +45,10 @@ https://habr.com/ru/articles/1107774/
 https://habr.com/ru/articles/1107826/
 https://habr.com/ru/articles/1107896/
 https://habr.com/ru/articles/1107946/
+https://habr.com/ru/articles/1107966/
 https://habr.com/ru/articles/1108150/
+https://habr.com/ru/articles/1108218/
+https://habr.com/ru/articles/1108440/
 https://habr.com/ru/companies/3opinion/articles/1101730/
 https://habr.com/ru/companies/bhv_publishing/articles/1102644/
 https://habr.com/ru/companies/bitrix/articles/1101856/
@@ -64,8 +67,12 @@ https://habr.com/ru/companies/piter/articles/1103896/
 https://habr.com/ru/companies/rshb/articles/1105782/
 https://habr.com/ru/companies/ru_mts/articles/1101704/
 https://habr.com/ru/companies/ru_mts/articles/1101838/
+https://habr.com/ru/companies/ru_mts/articles/1107048/
+https://habr.com/ru/companies/ru_mts/articles/1107236/
 https://habr.com/ru/companies/ruvds/articles/1101042/
 https://habr.com/ru/companies/ruvds/articles/1102690/
+https://habr.com/ru/companies/ruvds/articles/1106182/
+https://habr.com/ru/companies/ruvds/articles/1106678/
 https://habr.com/ru/companies/ruvds/articles/1107500/
 https://habr.com/ru/companies/sberbank/articles/1103056/
 https://habr.com/ru/companies/sberbank/articles/1104670/
@@ -84,6 +91,7 @@ https://habr.com/ru/companies/shtab/articles/1104508/
 https://habr.com/ru/companies/timeweb/articles/1100576/
 https://habr.com/ru/companies/timeweb/articles/1103120/
 https://habr.com/ru/companies/timeweb/articles/1103368/
+https://habr.com/ru/companies/timeweb/articles/1103622/
 https://habr.com/ru/companies/timeweb/articles/1104202/
 https://habr.com/ru/companies/vk/articles/1103230/
 https://habr.com/ru/companies/yadro/articles/1101700/
