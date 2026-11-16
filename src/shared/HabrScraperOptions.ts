@@ -2,7 +2,7 @@ export const Options: Record<string, { title: string, minRating: number, pages?:
   // ai
   'artificial_intelligence': {
     title: 'Искусственный интеллект',
-    minRating: 10,
+    minRating: 20,
     pages: 3,
   },
 
@@ -10,6 +10,7 @@ export const Options: Record<string, { title: string, minRating: number, pages?:
   'devops': {
     title: 'DevOps',
     minRating: 20,
+    pages: 3,
   },
   'it-infrastructure': {
     title: 'IT-инфраструктура',
@@ -28,6 +29,7 @@ export const Options: Record<string, { title: string, minRating: number, pages?:
   'net': {
     title: '.NET',
     minRating: 10,
+    pages: 3,
   },
   'csharp': {
     title: 'C#',
@@ -46,5 +48,6 @@ export const Options: Record<string, { title: string, minRating: number, pages?:
   'typescript': {
     title: 'TypeScript',
     minRating: 10,
+    pages: 3,
   },
 };
