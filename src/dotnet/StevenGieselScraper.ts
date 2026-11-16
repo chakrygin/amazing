@@ -22,9 +22,9 @@ export class StevenGieselScraper extends ScraperBase {
         const image = element.find('.meta .photo img').attr('src') ?? '';
         const title = element.find('.description h4.card-title').text();
         const href = element.find('.description .read-more a').attr('href') ?? '';
-        const date = element.find('.meta .details .date').text();
+        const date = element.find('.description .details .date').text();
         const tags = element
-          .find('.meta .details .tags .goto-tag')
+          .find('.description .details .tags .goto-tag')
           .map((_, tags) => $(tags).text())
           .toArray();
 
