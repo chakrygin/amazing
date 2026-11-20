@@ -1,3 +1,4 @@
+https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/
 https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/
 https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/
 https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/
