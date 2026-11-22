@@ -1,4 +1,5 @@
 https://www.meziantou.net/analyzing-a-dotnet-crash-dump-with-an-ai-agent.htm
+https://www.meziantou.net/debugging-a-running-dotnet-application-with-windbg-and-an-ai-agent.htm
 https://www.meziantou.net/diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm
 https://www.meziantou.net/finding-a-deadlock-in-a-dotnet-dump-with-an-ai-agent.htm
 https://www.meziantou.net/finding-a-leak-rooted-by-an-event-handler-or-a-timer-with-an-ai-agent.htm
