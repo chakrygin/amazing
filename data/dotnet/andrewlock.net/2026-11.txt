@@ -1,1 +1,2 @@
+https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/
 https://andrewlock.net/understanding-lazy-thread-safety-modes/
