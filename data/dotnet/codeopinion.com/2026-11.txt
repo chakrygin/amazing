@@ -1,1 +1,2 @@
+https://codeopinion.com/event-driven-architecture-coupling/
 https://codeopinion.com/stale-data-consistency-boundaries/
