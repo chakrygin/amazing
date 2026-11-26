@@ -59,6 +59,7 @@ https://habr.com/ru/articles/1110758/
 https://habr.com/ru/articles/1110838/
 https://habr.com/ru/articles/1110976/
 https://habr.com/ru/articles/1112210/
+https://habr.com/ru/articles/1112398/
 https://habr.com/ru/companies/3opinion/articles/1101730/
 https://habr.com/ru/companies/bhv_publishing/articles/1102644/
 https://habr.com/ru/companies/bitrix/articles/1101856/
@@ -94,6 +95,7 @@ https://habr.com/ru/companies/ruvds/articles/1110272/
 https://habr.com/ru/companies/sberbank/articles/1103056/
 https://habr.com/ru/companies/sberbank/articles/1104670/
 https://habr.com/ru/companies/sberbank/articles/1111372/
+https://habr.com/ru/companies/sberbank/articles/1112118/
 https://habr.com/ru/companies/selectel/articles/1102420/
 https://habr.com/ru/companies/selectel/articles/1103502/
 https://habr.com/ru/companies/selectel/articles/1105526/
@@ -108,6 +110,7 @@ https://habr.com/ru/companies/selectel/articles/1108608/
 https://habr.com/ru/companies/selectel/articles/1108698/
 https://habr.com/ru/companies/selectel/articles/1109694/
 https://habr.com/ru/companies/selectel/articles/1110292/
+https://habr.com/ru/companies/selectel/articles/1111528/
 https://habr.com/ru/companies/selectel/articles/1112066/
 https://habr.com/ru/companies/shtab/articles/1103050/
 https://habr.com/ru/companies/shtab/articles/1104508/
